@@ -1,4 +1,4 @@
-## About me
+## About me
 Bonjour à tous, je suis Maëlle, développeuse FullStack Junior 🌱
 
 👋 Mon expertise est principalement axée sur JavaScript et son écosystème, mais je travaille aussi sur des petits projets personnels en Python par amour du langage.
