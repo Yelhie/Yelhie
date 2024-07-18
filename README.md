@@ -5,4 +5,4 @@ Bonjour à tous, je suis Maëlle, développeuse FullStack Junior 🌱
 
 Si besoin, vous pouvez me contacter via ✉️[LinkedIn](www.linkedin.com/in/maelle-girard). Je serais ravie d’échanger avec vous sur mon code ou sur le petit monde du dév.
 
-Mes deux side projects du moment sont [FreeLens](https://github.com/Yelhie/FreeLens) et [Manga no Kura](https://github.com/Yelhie/Manga_Nokura), des projets utilisant React/Angular pour le front-end et Node.js, MongoDB et SQL pour le back-end.
+Mes deux side projects du moment sont [FreeLens](https://github.com/Yelhie/FreeLens) et [MangaSoko](https://github.com/Yelhie/MangaSoko), des projets utilisant React ou Angular pour le front-end et Node.js, MongoDB ou SQL pour le back-end. Ils disposent également d'une documentation API via Swagger, de typage via TypeScript, et de tests via Cypress et Jest.
