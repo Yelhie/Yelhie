@@ -7,4 +7,4 @@ My expertise is focused on the TypeScript and Python ecosystems, with significan
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,js,angular,react,docker,kubernetes,azure,grafana,kali,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,angular,react,docker,kubernetes,azure,grafana,windows,linux)](https://skillicons.dev)
